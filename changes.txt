@@ -1,0 +1,4 @@
+convert the app into a class based structure module
+add an UI
+make sure it runs on local
+try to save the trained modle (or similar)
